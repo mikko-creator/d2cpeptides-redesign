@@ -567,19 +567,22 @@ body:is([data-type="product"], [data-type="supply"], [data-type="cart"], [data-t
 .section:not(.section--navy) .stat dd { color: var(--ink); }
 .section:not(.section--navy) .stat dt { color: var(--muted); }
 
-/* hero media: the client's vial photographs, presented as white specimen plates floating at different depths */
-.hero__media { position: relative; display: grid; place-items: center; min-height: 340px; perspective: 1400px; }
+/* hero media: the client's vial renders ship cut out (transparent ground), so they float free at different depths:
+   no plate, a shadow that follows the vial's outline plus a cool glow; the slow bob is in 60-motion.css */
+.hero__media {
+  position: relative; display: grid; place-items: center; min-height: 340px; perspective: 1400px;
+  --vial-lift: drop-shadow(0 30px 26px rgba(0, 0, 0, .55)) drop-shadow(0 0 24px rgba(110, 143, 224, .22));
+}
 .hero__media img {
-  width: min(100%, 340px); height: auto; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 26px; background: #fff;
-  box-shadow: 0 1px 0 rgba(255, 255, 255, .8) inset, 0 50px 80px -40px rgba(0, 0, 0, .85), 0 0 0 1px rgba(255, 255, 255, .5), 0 0 0 9px rgba(255, 255, 255, .06);
+  width: min(100%, 340px); height: auto; aspect-ratio: 4 / 5; object-fit: cover; filter: var(--vial-lift);
   transform: rotateY(-10deg) rotateX(4deg); transition: transform .8s var(--ease-out);
 }
 .hero__media:hover img { transform: rotateY(-4deg) rotateX(2deg) translateY(-6px); }
 .hero__media--2, .hero__media--3 { display: block; min-height: clamp(360px, 36vw, 520px); }
 .hero__media--2 img, .hero__media--3 img { position: absolute; width: 42%; }
-.hero__media--3 img:nth-child(1) { left: 4%; top: 18%; transform: rotate(-7deg) rotateY(12deg); z-index: 1; filter: saturate(.9) brightness(.92); }
+.hero__media--3 img:nth-child(1) { left: 4%; top: 18%; transform: rotate(-7deg) rotateY(12deg); z-index: 1; filter: var(--vial-lift) saturate(.9) brightness(.92); }
 .hero__media--3 img:nth-child(2) { left: 29%; top: 2%; z-index: 3; transform: rotate(2deg); }
-.hero__media--3 img:nth-child(3) { right: 4%; top: 26%; transform: rotate(8deg) rotateY(-14deg); z-index: 2; filter: saturate(.9) brightness(.95); }
+.hero__media--3 img:nth-child(3) { right: 4%; top: 26%; transform: rotate(8deg) rotateY(-14deg); z-index: 2; filter: var(--vial-lift) saturate(.9) brightness(.95); }
 .hero__media--2 img:nth-child(1) { left: 10%; top: 4%; transform: rotate(-5deg); z-index: 1; }
 .hero__media--2 img:nth-child(2) { right: 10%; bottom: 4%; transform: rotate(5deg); z-index: 2; }
 .hero__media--3:hover img:nth-child(1) { transform: rotate(-10deg) rotateY(14deg) translate(-12px, -6px); }
@@ -1182,6 +1185,11 @@ main fieldset { min-width: 0; }
 .fx-ready .hero__body > :nth-child(5) { animation-delay: .32s; }
 .fx-ready .hero__body > :nth-child(n+6) { animation-delay: .4s; }
 .fx-ready .hero__media { animation: media-in 1.4s var(--ease-out) .2s both; }
+/* hero vials bob out of phase; translate/rotate compose with the transform the layout and hover set */
+.fx-ready .hero__media img { animation: vial-float 7s ease-in-out -1s infinite; }
+.fx-ready .hero__media img:nth-child(2) { animation-duration: 8.4s; animation-delay: -4.2s; }
+.fx-ready .hero__media img:nth-child(3) { animation-duration: 6.2s; animation-delay: -2.6s; }
+@keyframes vial-float { 50% { translate: 0 -14px; rotate: -1deg; } }
 .fx-ready .pdp__gallery { animation: media-in 1.2s var(--ease-out) both; }
 .fx-ready .pdp__info { animation: hero-in 1s var(--ease-out) .1s both; }
 @keyframes hero-in { from { opacity: 0; transform: translate3d(0, 24px, 0); filter: blur(6px); } }

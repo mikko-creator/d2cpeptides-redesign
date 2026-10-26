@@ -16,6 +16,11 @@
 .fx-ready .hero__body > :nth-child(5) { animation-delay: .32s; }
 .fx-ready .hero__body > :nth-child(n+6) { animation-delay: .4s; }
 .fx-ready .hero__media { animation: media-in 1.4s var(--ease-out) .2s both; }
+/* hero vials bob out of phase; translate/rotate compose with the transform the layout and hover set */
+.fx-ready .hero__media img { animation: vial-float 7s ease-in-out -1s infinite; }
+.fx-ready .hero__media img:nth-child(2) { animation-duration: 8.4s; animation-delay: -4.2s; }
+.fx-ready .hero__media img:nth-child(3) { animation-duration: 6.2s; animation-delay: -2.6s; }
+@keyframes vial-float { 50% { translate: 0 -14px; rotate: -1deg; } }
 .fx-ready .pdp__gallery { animation: media-in 1.2s var(--ease-out) both; }
 .fx-ready .pdp__info { animation: hero-in 1s var(--ease-out) .1s both; }
 @keyframes hero-in { from { opacity: 0; transform: translate3d(0, 24px, 0); filter: blur(6px); } }
