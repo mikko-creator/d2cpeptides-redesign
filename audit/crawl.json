@@ -1,0 +1,2916 @@
+{
+  "origin": "https://sgencms.github.io/d2cpeptides/",
+  "at": "2026-10-26T03:06:39.809Z",
+  "robotsHonoured": true,
+  "robots": "host /robots.txt 404 (no rules)",
+  "gapMs": 400,
+  "max": 3000,
+  "truncated": false,
+  "stopped": null,
+  "pending": [],
+  "records": [
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/index.html",
+      "bytes": 40144
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/404.html",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/404.html",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/404.html",
+      "bytes": 15215
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/search/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/search/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/search/index.html",
+      "bytes": 14089
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/sitemap/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/sitemap/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/sitemap/index.html",
+      "bytes": 15215
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/index.html",
+      "bytes": 78599
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/index.html",
+      "bytes": 34421
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/wholesale/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/wholesale/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/wholesale/index.html",
+      "bytes": 45547
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/index.html",
+      "bytes": 52898
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/index.html",
+      "bytes": 33719
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/anti-aging-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/anti-aging-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/anti-aging-peptides/index.html",
+      "bytes": 36985
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/growth-hormone-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/growth-hormone-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/growth-hormone-peptides/index.html",
+      "bytes": 35296
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/healing-and-recovery-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/healing-and-recovery-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/healing-and-recovery-peptides/index.html",
+      "bytes": 39157
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/muscle-growth-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/muscle-growth-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/muscle-growth-peptides/index.html",
+      "bytes": 39672
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/sleep-and-stress-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/sleep-and-stress-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/sleep-and-stress-peptides/index.html",
+      "bytes": 30905
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/weight-loss-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/weight-loss-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/weight-loss-peptides/index.html",
+      "bytes": 36723
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/collagen-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/collagen-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/collagen-peptides/index.html",
+      "bytes": 25730
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/sexual-health-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/sexual-health-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/sexual-health-peptides/index.html",
+      "bytes": 27768
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/hormone-therapy-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/hormone-therapy-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/hormone-therapy-peptides/index.html",
+      "bytes": 26728
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/post-cycle-therapy-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/post-cycle-therapy-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/post-cycle-therapy-peptides/index.html",
+      "bytes": 25406
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/reproductive-health-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/reproductive-health-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/reproductive-health-peptides/index.html",
+      "bytes": 32854
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cognitive-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cognitive-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cognitive-peptides/index.html",
+      "bytes": 26880
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/tirzepatide/index.html",
+      "bytes": 45828
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/semaglutide/index.html",
+      "bytes": 46624
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/hgh/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/hgh/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/hgh/index.html",
+      "bytes": 47601
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/hcg/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/hcg/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/hcg/index.html",
+      "bytes": 44914
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/bpc157/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/bpc157/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/bpc157/index.html",
+      "bytes": 44990
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/sermorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/sermorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/sermorelin/index.html",
+      "bytes": 45627
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/retatrutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/retatrutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/retatrutide/index.html",
+      "bytes": 48511
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/tesamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/tesamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/tesamorelin/index.html",
+      "bytes": 48662
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/blog/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/blog/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/blog/index.html",
+      "bytes": 16571
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/wholesale/apply/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/wholesale/apply/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/wholesale/apply/index.html",
+      "bytes": 19363
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/blog/bulk-glp-1-research-vials/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/blog/bulk-glp-1-research-vials/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/blog/bulk-glp-1-research-vials/index.html",
+      "bytes": 40045
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/phoenix/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/phoenix/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/phoenix/index.html",
+      "bytes": 46461
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/scottsdale/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/scottsdale/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/scottsdale/index.html",
+      "bytes": 38190
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/mesa/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/mesa/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/mesa/index.html",
+      "bytes": 32958
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/gilbert/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/gilbert/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/gilbert/index.html",
+      "bytes": 35262
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/las-vegas/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/las-vegas/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/las-vegas/index.html",
+      "bytes": 46650
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/henderson/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/henderson/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/henderson/index.html",
+      "bytes": 35955
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/riverside/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/riverside/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/riverside/index.html",
+      "bytes": 40548
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/temecula/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/temecula/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/temecula/index.html",
+      "bytes": 33711
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/palm-springs/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/palm-springs/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/palm-springs/index.html",
+      "bytes": 36453
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/lab-results/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/lab-results/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/lab-results/index.html",
+      "bytes": 28501
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/about/review-policy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/about/review-policy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/about/review-policy/index.html",
+      "bytes": 21292
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/legal/research-use/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/legal/research-use/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/legal/research-use/index.html",
+      "bytes": 21138
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/bacteriostatic-water/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/bacteriostatic-water/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/bacteriostatic-water/index.html",
+      "bytes": 36498
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/insulin-syringes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/insulin-syringes/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/insulin-syringes/index.html",
+      "bytes": 35000
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/3ml-syringe-luer-lok-tip/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/3ml-syringe-luer-lok-tip/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/3ml-syringe-luer-lok-tip/index.html",
+      "bytes": 34861
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/alcohol-swabs/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/alcohol-swabs/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/alcohol-swabs/index.html",
+      "bytes": 33097
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/index.html",
+      "bytes": 67017
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/research-peptides/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/research-peptides/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/research-peptides/index.html",
+      "bytes": 51037
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/legal/medical-disclaimer/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/legal/medical-disclaimer/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/legal/medical-disclaimer/index.html",
+      "bytes": 19900
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/shipping/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/shipping/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/shipping/index.html",
+      "bytes": 18603
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/subscribe/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/subscribe/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/subscribe/index.html",
+      "bytes": 21017
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/partners/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/partners/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/partners/index.html",
+      "bytes": 23566
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/reviews/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/reviews/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/reviews/index.html",
+      "bytes": 20412
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/contact/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/contact/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/contact/index.html",
+      "bytes": 17983
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/returns/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/returns/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/returns/index.html",
+      "bytes": 16794
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/about/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/about/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/about/index.html",
+      "bytes": 17235
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/legal/terms/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/legal/terms/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/legal/terms/index.html",
+      "bytes": 21050
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/legal/privacy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/legal/privacy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/legal/privacy/index.html",
+      "bytes": 21233
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/chandler/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/chandler/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/chandler/index.html",
+      "bytes": 37434
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/glendale/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/glendale/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/glendale/index.html",
+      "bytes": 34296
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/tempe/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/tempe/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/tempe/index.html",
+      "bytes": 32878
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/anthem/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/anthem/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/anthem/index.html",
+      "bytes": 34097
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/fountain-hills/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/fountain-hills/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/fountain-hills/index.html",
+      "bytes": 36569
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/peoria/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/peoria/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/peoria/index.html",
+      "bytes": 36181
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/buckeye/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/buckeye/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/buckeye/index.html",
+      "bytes": 34961
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/queen-creek/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/queen-creek/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/queen-creek/index.html",
+      "bytes": 35326
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/surprise/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/surprise/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/surprise/index.html",
+      "bytes": 35357
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/paradise/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/paradise/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/paradise/index.html",
+      "bytes": 32743
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/sunrise-manor/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/sunrise-manor/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/sunrise-manor/index.html",
+      "bytes": 34252
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/north-las-vegas/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/north-las-vegas/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/north-las-vegas/index.html",
+      "bytes": 34784
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/winchester/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/winchester/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/winchester/index.html",
+      "bytes": 31894
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/enterprise/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/enterprise/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/enterprise/index.html",
+      "bytes": 33017
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/moreno-valley/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/moreno-valley/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/moreno-valley/index.html",
+      "bytes": 32478
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/corona/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/corona/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/corona/index.html",
+      "bytes": 32137
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/menifee/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/menifee/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/menifee/index.html",
+      "bytes": 31541
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/murrieta/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/murrieta/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/murrieta/index.html",
+      "bytes": 33182
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/palm-desert/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/palm-desert/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/palm-desert/index.html",
+      "bytes": 36104
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/la-quinta/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/la-quinta/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/la-quinta/index.html",
+      "bytes": 36607
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/desert-hot-springs/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/desert-hot-springs/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/desert-hot-springs/index.html",
+      "bytes": 37126
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/hemet/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/hemet/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/hemet/index.html",
+      "bytes": 34482
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/temescal-valley/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/temescal-valley/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/temescal-valley/index.html",
+      "bytes": 32708
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/valle-vista/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/valle-vista/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/valle-vista/index.html",
+      "bytes": 36075
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/locations/lakeland-village/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/locations/lakeland-village/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/locations/lakeland-village/index.html",
+      "bytes": 32560
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ss-31/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ss-31/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ss-31/index.html",
+      "bytes": 47156
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/semax/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/semax/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/semax/index.html",
+      "bytes": 48035
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/thymosin-alpha-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/thymosin-alpha-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/thymosin-alpha-1/index.html",
+      "bytes": 43203
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/pinealon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/pinealon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/pinealon/index.html",
+      "bytes": 47104
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ghk-cu/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ghk-cu/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ghk-cu/index.html",
+      "bytes": 47039
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/klow-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/klow-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/klow-peptide/index.html",
+      "bytes": 47431
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/nad/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/nad/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/nad/index.html",
+      "bytes": 44931
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/pt-141/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/pt-141/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/pt-141/index.html",
+      "bytes": 39951
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/glow-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/glow-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/glow-peptide/index.html",
+      "bytes": 47749
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/mots-c/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/mots-c/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/mots-c/index.html",
+      "bytes": 41815
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/tb-500/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/tb-500/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/tb-500/index.html",
+      "bytes": 43538
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/melanotan/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/melanotan/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/melanotan/index.html",
+      "bytes": 44346
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/igf-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/igf-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/igf-1/index.html",
+      "bytes": 50612
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/wolverine-stack/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/wolverine-stack/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/wolverine-stack/index.html",
+      "bytes": 48687
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/aod-9604/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/aod-9604/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/aod-9604/index.html",
+      "bytes": 43799
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-ipamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-ipamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cjc-1295-ipamorelin/index.html",
+      "bytes": 50351
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/dsip-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/dsip-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/dsip-peptide/index.html",
+      "bytes": 48452
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/kisspeptin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/kisspeptin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/kisspeptin/index.html",
+      "bytes": 48698
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/hmg/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/hmg/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/hmg/index.html",
+      "bytes": 45169
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/kpv/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/kpv/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/kpv/index.html",
+      "bytes": 47826
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ghrp-6/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ghrp-6/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ghrp-6/index.html",
+      "bytes": 49202
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/selank/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/selank/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/selank/index.html",
+      "bytes": 47329
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-with-dac/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-with-dac/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cjc-1295-with-dac/index.html",
+      "bytes": 50834
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ghrp-2/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ghrp-2/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ghrp-2/index.html",
+      "bytes": 48558
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/gonadorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/gonadorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/gonadorelin/index.html",
+      "bytes": 49673
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ara-290/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ara-290/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ara-290/index.html",
+      "bytes": 48960
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cartalax/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cartalax/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cartalax/index.html",
+      "bytes": 45128
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-no-dac/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cjc-1295-no-dac/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cjc-1295-no-dac/index.html",
+      "bytes": 45642
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/epithalon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/epithalon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/epithalon/index.html",
+      "bytes": 48470
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/hgh-fragment-176-191/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/hgh-fragment-176-191/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/hgh-fragment-176-191/index.html",
+      "bytes": 49131
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cardiogen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cardiogen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cardiogen/index.html",
+      "bytes": 43591
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/livagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/livagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/livagen/index.html",
+      "bytes": 45113
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/mgf-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/mgf-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/mgf-peptide/index.html",
+      "bytes": 48072
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/testagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/testagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/testagen/index.html",
+      "bytes": 44550
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/ipamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/ipamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/ipamorelin/index.html",
+      "bytes": 47656
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/cortagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/cortagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/cortagen/index.html",
+      "bytes": 44360
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/peptides/vilon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/peptides/vilon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/peptides/vilon/index.html",
+      "bytes": 44595
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/tools/reconstitution-calculator/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/tools/reconstitution-calculator/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/tools/reconstitution-calculator/index.html",
+      "bytes": 34365
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/18g-1-inch-needle/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/18g-1-inch-needle/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/18g-1-inch-needle/index.html",
+      "bytes": 33757
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/23g-1-needle/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/23g-1-needle/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/23g-1-needle/index.html",
+      "bytes": 34489
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/supplies/25g-1-needle/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/supplies/25g-1-needle/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/supplies/25g-1-needle/index.html",
+      "bytes": 34819
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-reconstitute/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-reconstitute/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/guides/how-to-reconstitute/index.html",
+      "bytes": 45615
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-store/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-store/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/guides/how-to-store/index.html",
+      "bytes": 42617
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-inject/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/guides/how-to-inject/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/guides/how-to-inject/index.html",
+      "bytes": 45706
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/supplies/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/supplies/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/supplies/index.html",
+      "bytes": 58314
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/wholesale/private-label/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/wholesale/private-label/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/wholesale/private-label/index.html",
+      "bytes": 23907
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/glp-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/glp-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/glp-1/index.html",
+      "bytes": 44146
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ozempic/index.html",
+      "bytes": 46223
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/blends-and-stacks/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/blends-and-stacks/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/blends-and-stacks/index.html",
+      "bytes": 46834
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/index.html",
+      "bytes": 64001
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/muscle/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/muscle/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/muscle/index.html",
+      "bytes": 67455
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/skin-hair/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/skin-hair/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/skin-hair/index.html",
+      "bytes": 54337
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/sleep/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/sleep/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/sleep/index.html",
+      "bytes": 48863
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/tanning/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/tanning/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/tanning/index.html",
+      "bytes": 45262
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/healing/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/healing/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/healing/index.html",
+      "bytes": 67235
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/cognitive/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/cognitive/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/cognitive/index.html",
+      "bytes": 59932
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/testosterone/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/testosterone/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/testosterone/index.html",
+      "bytes": 54316
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/men/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/men/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/men/index.html",
+      "bytes": 62995
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/index.html",
+      "bytes": 62989
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/women/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/women/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/women/index.html",
+      "bytes": 60513
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/index.html",
+      "bytes": 41450
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/ozempic-vs-wegovy/index.html",
+      "bytes": 39130
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-ozempic/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-ozempic/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/mounjaro-vs-ozempic/index.html",
+      "bytes": 38125
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/tools/peptide-calculator/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/tools/peptide-calculator/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/tools/peptide-calculator/index.html",
+      "bytes": 32275
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/tools/units-converter/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/tools/units-converter/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/tools/units-converter/index.html",
+      "bytes": 34231
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/guides/safety-basics/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/guides/safety-basics/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/guides/safety-basics/index.html",
+      "bytes": 43711
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/glossary/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/glossary/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/glossary/index.html",
+      "bytes": 100372
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/faq/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/faq/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/faq/index.html",
+      "bytes": 96319
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/guides/dosing-basics/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/guides/dosing-basics/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/guides/dosing-basics/index.html",
+      "bytes": 40012
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/about/editorial-team/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/about/editorial-team/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/about/editorial-team/index.html",
+      "bytes": 17711
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/epithalon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/epithalon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/epithalon/index.html",
+      "bytes": 64696
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghk-cu/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghk-cu/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ghk-cu/index.html",
+      "bytes": 65908
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mots-c/index.html",
+      "bytes": 49417
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghrp-2/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghrp-2/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ghrp-2/index.html",
+      "bytes": 64459
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghrp-6/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ghrp-6/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ghrp-6/index.html",
+      "bytes": 62058
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-with-dac/index.html",
+      "bytes": 57813
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ipamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ipamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ipamorelin/index.html",
+      "bytes": 61564
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tesamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tesamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tesamorelin/index.html",
+      "bytes": 62917
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/aod-9604/index.html",
+      "bytes": 49266
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/hgh/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/hgh/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/hgh/index.html",
+      "bytes": 61348
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/bpc157/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/bpc157/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/bpc157/index.html",
+      "bytes": 62983
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mgf-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mgf-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mgf-peptide/index.html",
+      "bytes": 58327
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/dsip-peptide/index.html",
+      "bytes": 49264
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/selank/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/selank/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/selank/index.html",
+      "bytes": 56195
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/melanotan/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/melanotan/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/melanotan/index.html",
+      "bytes": 68623
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/men/pt-141/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/men/pt-141/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/men/pt-141/index.html",
+      "bytes": 40314
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/women/pt-141/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/women/pt-141/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/women/pt-141/index.html",
+      "bytes": 38517
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pt-141/index.html",
+      "bytes": 53613
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/hcg/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/hcg/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/hcg/index.html",
+      "bytes": 58198
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kisspeptin/index.html",
+      "bytes": 52159
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/nad/reconstitution/index.html",
+      "bytes": 36228
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/nad/index.html",
+      "bytes": 53948
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tirzepatide/index.html",
+      "bytes": 64601
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tirzepatide/dosage/index.html",
+      "bytes": 41890
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tirzepatide/side-effects/index.html",
+      "bytes": 43078
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tirzepatide/reconstitution/index.html",
+      "bytes": 41481
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/blog/tirzepatide-price/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/blog/tirzepatide-price/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/blog/tirzepatide-price/index.html",
+      "bytes": 36785
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semaglutide/index.html",
+      "bytes": 60657
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semaglutide/dosage/index.html",
+      "bytes": 38070
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semaglutide/side-effects/index.html",
+      "bytes": 40770
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semaglutide/reconstitution/index.html",
+      "bytes": 38543
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/sermorelin/index.html",
+      "bytes": 60370
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/sermorelin/dosage/index.html",
+      "bytes": 42313
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/sermorelin/side-effects/index.html",
+      "bytes": 43004
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/sermorelin/reconstitution/index.html",
+      "bytes": 38470
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/retatrutide/index.html",
+      "bytes": 63272
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/retatrutide/dosage/index.html",
+      "bytes": 38076
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/retatrutide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/retatrutide/side-effects/index.html",
+      "bytes": 46811
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/blog/semaglutide-cost/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/blog/semaglutide-cost/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/blog/semaglutide-cost/index.html",
+      "bytes": 38104
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ara-290/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ara-290/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ara-290/index.html",
+      "bytes": 61620
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cardiogen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cardiogen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cardiogen/index.html",
+      "bytes": 46104
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cartalax/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cartalax/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cartalax/index.html",
+      "bytes": 49034
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-ipamorelin/index.html",
+      "bytes": 58382
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-no-dac/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-no-dac/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-no-dac/index.html",
+      "bytes": 59633
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cortagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cortagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cortagen/index.html",
+      "bytes": 50113
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/glow-peptide/index.html",
+      "bytes": 54626
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/gonadorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/gonadorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/gonadorelin/index.html",
+      "bytes": 62778
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/hgh-fragment-176-191/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/hgh-fragment-176-191/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/hgh-fragment-176-191/index.html",
+      "bytes": 61413
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/hmg/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/hmg/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/hmg/index.html",
+      "bytes": 56016
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/igf-1/index.html",
+      "bytes": 67597
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/klow-peptide/index.html",
+      "bytes": 58318
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kpv/index.html",
+      "bytes": 62146
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/livagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/livagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/livagen/index.html",
+      "bytes": 50452
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mounjaro/index.html",
+      "bytes": 43130
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pinealon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pinealon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pinealon/index.html",
+      "bytes": 59905
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/rybelsus/index.html",
+      "bytes": 39414
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semax/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semax/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semax/index.html",
+      "bytes": 67717
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ss-31/index.html",
+      "bytes": 55181
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tb-500/index.html",
+      "bytes": 56301
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/testagen/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/testagen/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/testagen/index.html",
+      "bytes": 51510
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/thymosin-alpha-1/index.html",
+      "bytes": 47168
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/vilon/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/vilon/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/vilon/index.html",
+      "bytes": 56089
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/vyleesi/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/vyleesi/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/vyleesi/index.html",
+      "bytes": 43469
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wegovy/index.html",
+      "bytes": 47965
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wolverine-stack/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wolverine-stack/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wolverine-stack/index.html",
+      "bytes": 64376
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/zepbound/index.html",
+      "bytes": 55449
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/account/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/account/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/account/index.html",
+      "bytes": 13219
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/refer/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/refer/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/refer/index.html",
+      "bytes": 15154
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ss-31/dosage/index.html",
+      "bytes": 40026
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ss-31/side-effects/index.html",
+      "bytes": 38017
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/thymosin-alpha-1/dosage/index.html",
+      "bytes": 36379
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/thymosin-alpha-1/side-effects/index.html",
+      "bytes": 38072
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pinealon/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pinealon/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pinealon/side-effects/index.html",
+      "bytes": 37281
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/klow-peptide/dosage/index.html",
+      "bytes": 39343
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/klow-peptide/side-effects/index.html",
+      "bytes": 42013
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/nad/dosage/index.html",
+      "bytes": 38870
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/nad/side-effects/index.html",
+      "bytes": 40211
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pt-141/dosage/index.html",
+      "bytes": 39015
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pt-141/side-effects/index.html",
+      "bytes": 39891
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/glow-peptide/dosage/index.html",
+      "bytes": 40656
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/glow-peptide/side-effects/index.html",
+      "bytes": 38809
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mots-c/dosage/index.html",
+      "bytes": 40102
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mots-c/side-effects/index.html",
+      "bytes": 35744
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tb-500/dosage/index.html",
+      "bytes": 36322
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tb-500/side-effects/index.html",
+      "bytes": 40101
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tb-500/reconstitution/index.html",
+      "bytes": 36890
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/melanotan/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/melanotan/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/melanotan/dosage/index.html",
+      "bytes": 39415
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/igf-1/dosage/index.html",
+      "bytes": 41503
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/igf-1/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/igf-1/side-effects/index.html",
+      "bytes": 42143
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/aod-9604/dosage/index.html",
+      "bytes": 35096
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/aod-9604/side-effects/index.html",
+      "bytes": 34200
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/aod-9604/reconstitution/index.html",
+      "bytes": 39627
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-ipamorelin/dosage/index.html",
+      "bytes": 40216
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/dsip-peptide/dosage/index.html",
+      "bytes": 37885
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/dsip-peptide/side-effects/index.html",
+      "bytes": 36464
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kisspeptin/dosage/index.html",
+      "bytes": 44148
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kisspeptin/side-effects/index.html",
+      "bytes": 41770
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kpv/dosage/index.html",
+      "bytes": 38314
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kpv/side-effects/index.html",
+      "bytes": 34394
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-with-dac/dosage/index.html",
+      "bytes": 43647
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-with-dac/side-effects/index.html",
+      "bytes": 41094
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-with-dac/reconstitution/index.html",
+      "bytes": 40751
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ozempic/reconstitution/index.html",
+      "bytes": 36159
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wegovy/reconstitution/index.html",
+      "bytes": 34656
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/reconstitution/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/reconstitution/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mounjaro/reconstitution/index.html",
+      "bytes": 38071
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/glp-1/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/glp-1/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/glp-1/side-effects/index.html",
+      "bytes": 40358
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/glp-1/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/glp-1/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/glp-1/benefits/index.html",
+      "bytes": 42393
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/glp-1/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/glp-1/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/glp-1/dosage/index.html",
+      "bytes": 39424
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/glp-1/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/glp-1/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/glp-1/index.html",
+      "bytes": 40461
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/glp-1-vs-semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/glp-1-vs-semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/glp-1-vs-semaglutide/index.html",
+      "bytes": 41033
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/glp-1-vs-mounjaro/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/glp-1-vs-mounjaro/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/glp-1-vs-mounjaro/index.html",
+      "bytes": 41223
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ozempic/benefits/index.html",
+      "bytes": 30438
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/ozempic/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/ozempic/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/ozempic/index.html",
+      "bytes": 34903
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/ozempic/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/ozempic/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/ozempic/index.html",
+      "bytes": 35583
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ozempic/side-effects/index.html",
+      "bytes": 37153
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ozempic/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ozempic/dosage/index.html",
+      "bytes": 33590
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/ozempic-vs-semaglutide/index.html",
+      "bytes": 37940
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-rybelsus/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-rybelsus/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/ozempic-vs-rybelsus/index.html",
+      "bytes": 37974
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/ozempic-vs-tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/ozempic-vs-tirzepatide/index.html",
+      "bytes": 39794
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/semaglutide/index.html",
+      "bytes": 38757
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/wegovy/index.html",
+      "bytes": 35181
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/rybelsus/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/rybelsus/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/rybelsus/index.html",
+      "bytes": 32573
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/tirzepatide/index.html",
+      "bytes": 43960
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/mounjaro/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/mounjaro/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/mounjaro/index.html",
+      "bytes": 40880
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/sermorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/weight-loss/sermorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/weight-loss/sermorelin/index.html",
+      "bytes": 41871
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/muscle/sermorelin/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/muscle/sermorelin/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/muscle/sermorelin/index.html",
+      "bytes": 40517
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/semaglutide/index.html",
+      "bytes": 37376
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/tirzepatide/index.html",
+      "bytes": 44273
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/rybelsus/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/rybelsus/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/rybelsus/index.html",
+      "bytes": 30894
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/mounjaro/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/mounjaro/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/mounjaro/index.html",
+      "bytes": 37908
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/goals/blood-sugar/wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/goals/blood-sugar/wegovy/index.html",
+      "bytes": 37038
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-tirzepatide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-tirzepatide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/mounjaro-vs-tirzepatide/index.html",
+      "bytes": 40434
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/semaglutide-vs-wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/semaglutide-vs-wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/semaglutide-vs-wegovy/index.html",
+      "bytes": 40242
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-wegovy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-wegovy/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/mounjaro-vs-wegovy/index.html",
+      "bytes": 38790
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/rybelsus-vs-semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/rybelsus-vs-semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/rybelsus-vs-semaglutide/index.html",
+      "bytes": 38078
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-semaglutide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/compare/mounjaro-vs-semaglutide/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/compare/mounjaro-vs-semaglutide/index.html",
+      "bytes": 41987
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wegovy/dosage/index.html",
+      "bytes": 34345
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wegovy/side-effects/index.html",
+      "bytes": 37123
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mounjaro/side-effects/index.html",
+      "bytes": 36946
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mots-c/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mots-c/benefits/index.html",
+      "bytes": 40505
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-with-dac/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-with-dac/benefits/index.html",
+      "bytes": 46404
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/aod-9604/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/aod-9604/benefits/index.html",
+      "bytes": 38355
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/dsip-peptide/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/dsip-peptide/benefits/index.html",
+      "bytes": 45091
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/pt-141/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/pt-141/benefits/index.html",
+      "bytes": 39937
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kisspeptin/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kisspeptin/benefits/index.html",
+      "bytes": 42333
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/nad/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/nad/benefits/index.html",
+      "bytes": 39232
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tirzepatide/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tirzepatide/benefits/index.html",
+      "bytes": 44420
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/semaglutide/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/semaglutide/benefits/index.html",
+      "bytes": 35098
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/sermorelin/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/sermorelin/benefits/index.html",
+      "bytes": 40697
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/cjc-1295-ipamorelin/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/cjc-1295-ipamorelin/benefits/index.html",
+      "bytes": 44363
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/glow-peptide/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/glow-peptide/benefits/index.html",
+      "bytes": 44341
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/klow-peptide/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/klow-peptide/benefits/index.html",
+      "bytes": 46146
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/kpv/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/kpv/benefits/index.html",
+      "bytes": 45496
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mounjaro/benefits/index.html",
+      "bytes": 36978
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/mounjaro/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/mounjaro/dosage/index.html",
+      "bytes": 34392
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/rybelsus/benefits/index.html",
+      "bytes": 29933
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/rybelsus/side-effects/index.html",
+      "bytes": 36268
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/rybelsus/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/rybelsus/dosage/index.html",
+      "bytes": 29844
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/ss-31/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/ss-31/benefits/index.html",
+      "bytes": 47169
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/tb-500/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/tb-500/benefits/index.html",
+      "bytes": 40775
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/thymosin-alpha-1/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/thymosin-alpha-1/benefits/index.html",
+      "bytes": 40201
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/wegovy/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/wegovy/benefits/index.html",
+      "bytes": 36080
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/benefits/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/benefits/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/zepbound/benefits/index.html",
+      "bytes": 43240
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/side-effects/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/side-effects/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/zepbound/side-effects/index.html",
+      "bytes": 41759
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/dosage/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/learn/peptides/zepbound/dosage/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/learn/peptides/zepbound/dosage/index.html",
+      "bytes": 41397
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/cart/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/cart/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/cart/index.html",
+      "note": "not linked by <a>; reached by site.js (cart drawer / checkout)"
+    },
+    {
+      "url": "https://sgencms.github.io/d2cpeptides/checkout/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://sgencms.github.io/d2cpeptides/checkout/",
+      "contentType": "text/html; charset=utf-8",
+      "file": "audit/raw/checkout/index.html",
+      "note": "not linked by <a>; reached by site.js (cart drawer / checkout)"
+    }
+  ],
+  "counts": {
+    "total": 322,
+    "ok": 321,
+    "notFound": 1
+  }
+}

@@ -1,0 +1,51 @@
+/* ---------- scroll reveals (fx.js adds html.fx-ready and data-rv; without JS nothing is ever hidden) ---------- */
+.fx-ready [data-rv] {
+  opacity: 0; transform: translate3d(0, 30px, 0) scale(.985); filter: blur(5px);
+  transition: opacity .9s var(--ease-out), transform 1s var(--ease-out), filter .9s var(--ease-out);
+  transition-delay: var(--rv-d, 0ms);
+}
+.fx-ready [data-rv="left"] { transform: translate3d(-36px, 0, 0); }
+.fx-ready [data-rv="right"] { transform: translate3d(36px, 0, 0); }
+.fx-ready [data-rv="zoom"] { transform: scale(.94); }
+.fx-ready [data-rv].is-in { opacity: 1; transform: none; filter: none; }
+/* hero entrance on load */
+.fx-ready .hero__body > * { animation: hero-in 1s var(--ease-out) both; }
+.fx-ready .hero__body > :nth-child(2) { animation-delay: .08s; }
+.fx-ready .hero__body > :nth-child(3) { animation-delay: .16s; }
+.fx-ready .hero__body > :nth-child(4) { animation-delay: .24s; }
+.fx-ready .hero__body > :nth-child(5) { animation-delay: .32s; }
+.fx-ready .hero__body > :nth-child(n+6) { animation-delay: .4s; }
+.fx-ready .hero__media { animation: media-in 1.4s var(--ease-out) .2s both; }
+.fx-ready .pdp__gallery { animation: media-in 1.2s var(--ease-out) both; }
+.fx-ready .pdp__info { animation: hero-in 1s var(--ease-out) .1s both; }
+@keyframes hero-in { from { opacity: 0; transform: translate3d(0, 24px, 0); filter: blur(6px); } }
+@keyframes media-in { from { opacity: 0; transform: translate3d(0, 40px, 0) scale(.96); } }
+
+/* the spotlight that follows the pointer across dark bands (fx.js sets --sx/--sy on the section) */
+.fx::after { content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .6s; background: radial-gradient(560px circle at var(--sx, 50%) var(--sy, 0%), rgba(110, 143, 224, .16), transparent 60%); }
+.is-lit > .fx::after { opacity: 1; }
+
+/* tilt targets keep their hover lift when the pointer is coarse (fx.js drives transform on fine pointers) */
+.pcard:hover, .tile a:hover, .child-cards .card:hover { transform: translateY(-6px); }
+.has-tilt.pcard:hover, .tile a.has-tilt:hover, .child-cards .card.has-tilt:hover { transform: none; }
+
+/* ---------- reduced motion: no reveals, no drift, no loops, no tilt ---------- */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+  .fx-ready [data-rv] { opacity: 1; transform: none; filter: none; }
+  .marquee ul { flex-wrap: wrap; width: auto; justify-content: center; }
+  .fx-scan, .stage__orb { display: none; }
+  .fx__video { display: none; }
+}
+
+/* ---------- print ---------- */
+@media print {
+  .stage, .fx, .marquee, .mtabs, .chat-launcher, .chat-teaser, .gate, .drawer, .nav-toggle, .cart-btn, .site-header .search, .staging-banner { display: none !important; }
+  body, .hero, .section--navy, .site-footer { background: #fff !important; color: #000 !important; }
+  .hero__body, .band__text, .pdp__info { background: none !important; box-shadow: none !important; backdrop-filter: none !important; }
+  .hero__title, .hero__lede, .hero p, .section--navy :is(h2, h3, p) { color: #000 !important; }
+  .site-header { position: static; }
+  .site-header::before { background: #0a1220 !important; }
+  [data-rv] { opacity: 1 !important; transform: none !important; filter: none !important; }
+}

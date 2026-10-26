@@ -1,0 +1,15 @@
+{
+  "at": "2026-10-26T04:05:30.820Z",
+  "dist": "dist",
+  "pages": 321,
+  "identical": 321,
+  "words": 718155,
+  "links": 62280,
+  "images": 1860,
+  "failures": [],
+  "controls": {
+    "textFires": true,
+    "linkFires": true,
+    "imageFires": true
+  }
+}

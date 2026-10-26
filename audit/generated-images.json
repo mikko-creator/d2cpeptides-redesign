@@ -1,0 +1,524 @@
+[
+  {
+    "id": "hero-grok",
+    "slot": "hero",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Abstract scientific 3D render in a wide 16:9 frame. A translucent glass-like model of a peptide chain: smooth glossy spherical amino-acid beads of slightly varied sizes joined by thin clear glass bonds, forming one graceful curving strand that sweeps diagonally through the RIGHT half of the frame. Deep midnight-navy darkness fills the whole background. The LEFT half of the frame is empty, calm, near-black navy negative space with nothing in it. A soft crimson-red rim light catches the edges of the beads from behind, a cool steel-blue fill light from the front, gentle refraction inside the glass. A few soft out-of-focus bokeh particles float in the dark. Shallow depth of field, premium, minimal, clean, high-end render quality. Absolutely no text, no letters, no numbers, no labels, no logos, no watermark, no interface elements.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "701f6973-a4fb-452f-a3e2-96fc75594291",
+    "output": "tmp/img/raw/hero-grok.png",
+    "sha256": "d82590c0e810d78dbb32bfaba06013729dc4ec810f52391e89ba62af40c409d8",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:24:22.460Z",
+    "chosen": true,
+    "reason": "Matches the brief: glass bead chain held to the right 45% of the frame, left half empty dark navy (mean luma 7 of 255), red rim and steel-blue fill, soft bokeh. Full-resolution zoom crops show no text, numbers, labels or marks.",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/hero-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/hero-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/hero-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Abstract render of a translucent glass peptide chain, glass beads joined by thin bonds, curving through dark navy space with a red rim light",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "hero-qwen",
+    "slot": "hero",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Abstract scientific 3D render in a wide 16:9 frame. A translucent glass-like model of a peptide chain: smooth glossy spherical amino-acid beads of slightly varied sizes joined by thin clear glass bonds, forming one graceful curving strand that sweeps diagonally through the RIGHT half of the frame. Deep midnight-navy darkness fills the whole background. The LEFT half of the frame is empty, calm, near-black navy negative space with nothing in it. A soft crimson-red rim light catches the edges of the beads from behind, a cool steel-blue fill light from the front, gentle refraction inside the glass. A few soft out-of-focus bokeh particles float in the dark. Shallow depth of field, premium, minimal, clean, high-end render quality. Absolutely no text, no letters, no numbers, no labels, no logos, no watermark, no interface elements.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "1b57ac6f-63b5-4783-9b68-0ffb5caab40f",
+    "output": "tmp/img/raw/hero-qwen.png",
+    "sha256": "d837bdcc51efd8bae5e263e90b6606369587d7505484b7e254ae433f3bec1eb9",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:23:51.790Z",
+    "chosen": false,
+    "reason": "No text, but the double-strand lattice runs into the left 45% where the hero copy sits, reads as a generic molecular model rather than a bead chain, and the red rim is weak.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "lab-grok",
+    "slot": "lab",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Macro photograph on a dark glass laboratory bench. Three small clear glass vials with grey aluminium crimp caps stand on the RIGHT side of the frame, their glass completely plain, smooth and unlabelled, and a slim plain glass dropper pipette with no markings lies diagonally in front of them. Cool navy-blue light, a faint crimson-red reflection glinting on the glossy bench surface, very shallow depth of field with soft bokeh. The LEFT side of the frame is calm, dark navy negative space. Clean, premium scientific photography, 16:9. No labels, no printing, no graduation marks, no text, no letters, no numbers, no logos anywhere.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "d77a027d-d7f7-4951-ab04-da9ee6d9be4d",
+    "output": "tmp/img/raw/lab-grok.png",
+    "sha256": "f6ae570d0e811ec094962035d7e625e09038ea3d42552a7fde6a5db5bd358100",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:25:36.847Z",
+    "chosen": true,
+    "reason": "Three plain vials with grey caps and a plain glass pipette on the right, calm dark left side, blue bokeh depth that gives parallax for the dolly loop, red reflection on the bench. Zoom crops of the caps, glass and pipette show no text, graduations or marks.",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/lab-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/lab-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/lab-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Three small unlabelled glass vials with grey caps and a glass pipette on a dark glass bench in blue light, with a red reflection",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "lab-qwen",
+    "slot": "lab",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Macro photograph on a dark glass laboratory bench. Three small clear glass vials with grey aluminium crimp caps stand on the RIGHT side of the frame, their glass completely plain, smooth and unlabelled, and a slim plain glass dropper pipette with no markings lies diagonally in front of them. Cool navy-blue light, a faint crimson-red reflection glinting on the glossy bench surface, very shallow depth of field with soft bokeh. The LEFT side of the frame is calm, dark navy negative space. Clean, premium scientific photography, 16:9. No labels, no printing, no graduation marks, no text, no letters, no numbers, no logos anywhere.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "d98faf96-8b1a-4ec0-ad6a-724a5fecb96a",
+    "output": "tmp/img/raw/lab-qwen.png",
+    "sha256": "6204c5039f4bdaa75d4095f0429ce872e59ef35dcef4f5ea312973abd0d6726a",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:23:52.500Z",
+    "chosen": false,
+    "reason": "Clean at zoom (no text on caps or glass) and usable, but not chosen: flatter background of blurred equipment gives less depth for a dolly loop, and the left side is lighter.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "coldchain-grok",
+    "slot": "coldchain",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Top-down overhead studio photograph. An open insulated shipping box with a thick white foam insert, plain translucent pale-blue frozen gel ice packs with light frost, and four small plain clear glass vials with grey caps nested in round cut-outs in the white foam. The box sits on a deep navy matte surface that fills the rest of the frame. Clean, cool, soft studio light, crisp soft shadows, minimal and tidy, 16:9. Everything is blank and unbranded: no text, no labels, no printing, no logos, no stickers, no barcodes, no writing on the box, the ice packs or the vials.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "59b401ba-8d3f-4f97-907f-1d549b5afe6c",
+    "output": "tmp/img/raw/coldchain-grok.png",
+    "sha256": "bd0b9705ebc166770a24992d3b9ea21fc701c2a2b516c90983de9bd00a27eb64",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:25:54.006Z",
+    "chosen": true,
+    "reason": "Clean, symmetric top-down layout: kraft box, white foam insert, four frosted gel packs, four vials. Zoom crops of the box flaps, foam and packs show no printing, text or logos. Note: the vials are seen from above without caps (the prompt asked for grey caps).",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/coldchain-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/coldchain-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/coldchain-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Top-down view of an open shipping box with a white foam insert, frosted blue gel ice packs and four small glass vials, on a navy surface",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "coldchain-qwen",
+    "slot": "coldchain",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Top-down overhead studio photograph. An open insulated shipping box with a thick white foam insert, plain translucent pale-blue frozen gel ice packs with light frost, and four small plain clear glass vials with grey caps nested in round cut-outs in the white foam. The box sits on a deep navy matte surface that fills the rest of the frame. Clean, cool, soft studio light, crisp soft shadows, minimal and tidy, 16:9. Everything is blank and unbranded: no text, no labels, no printing, no logos, no stickers, no barcodes, no writing on the box, the ice packs or the vials.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "698dc76a-95de-4512-a276-c6d06c311798",
+    "output": "tmp/img/raw/coldchain-qwen.png",
+    "sha256": "f3e6f122d029969b59291940c06f097d8d54756f17ab96698ad0521478be9409",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:24:53.832Z",
+    "chosen": false,
+    "reason": "Inconsistent perspective (vials drawn in side view lying inside round wells of a top-down shot) and the ice pack is a crumpled plastic bag; less premium.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "rack-grok",
+    "slot": "rack",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Low-angle close-up photograph of rows of identical small clear glass vials with grey caps standing in a smooth plain white laboratory rack, the rows receding into the distance in strong perspective, very shallow depth of field so the far rows dissolve into soft bokeh. Deep navy background, a soft crimson-red rim light along the glass edges, cool steel-blue fill light. Premium, clean scientific photography, 16:9. The vials and the rack are completely plain: no labels, no grid markings, no text, no numbers, no letters, no logos.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "564f02f9-f9c6-4343-b276-29b87786b86a",
+    "output": "tmp/img/raw/rack-grok.png",
+    "sha256": "d710e1e9d1db46452133df2a5c81dfa52709324276433f7d692d6c9a531c1a9d",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:27:54.566Z",
+    "chosen": true,
+    "reason": "Rows of single-capped vials standing in the holes of a plain white rack, receding perspective, red rim light, navy background. Zoom crops of the front and back rows show no grid markings, text or labels.",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/rack-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/rack-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/rack-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Rows of identical capped glass vials in a white lab rack, receding into blur against a navy background with a red rim light",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "rack-qwen",
+    "slot": "rack",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Low-angle close-up photograph of rows of identical small clear glass vials with grey caps standing in a smooth plain white laboratory rack, the rows receding into the distance in strong perspective, very shallow depth of field so the far rows dissolve into soft bokeh. Deep navy background, a soft crimson-red rim light along the glass edges, cool steel-blue fill light. Premium, clean scientific photography, 16:9. The vials and the rack are completely plain: no labels, no grid markings, no text, no numbers, no letters, no logos.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "ed36e0d2-2d9c-4cdf-bf6e-681dcff567ef",
+    "output": "tmp/img/raw/rack-qwen.png",
+    "sha256": "e6251a5759b49728fa30293fb9d56383424bf38a31cf1ce32fb8cf3e075b4344",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:26:41.690Z",
+    "chosen": false,
+    "reason": "Artifact: every vial wears two stacked caps, and the vials stand on a flat slab rather than in a rack.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "crystal-grok",
+    "slot": "crystal",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Extreme macro scientific photograph of a white freeze-dried lyophilized powder cake resting at the bottom of a small clear glass vial, the porous crystalline texture of the cake in sharp focus, the curved glass wall softly out of focus around it. Cool blue light on a dark navy background, a faint crimson-red highlight on the glass, very shallow depth of field, calm dark negative space, 16:9. The vial is plain glass: no text, no labels, no markings, no numbers, no logos.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "dcf75729-dca9-45b2-98ae-5f3493f52cd9",
+    "output": "tmp/img/raw/crystal-grok.png",
+    "sha256": "02003ee2ecaa3029c4ce1f0dfbfd188f7a9ed2d82edf8e09dc8bdee85aa3ee66",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:30:11.014Z",
+    "chosen": true,
+    "reason": "Porous freeze-dried cake texture in sharp focus inside clear glass, cool blue light, faint red highlight, no text or marks at zoom. The vessel reads as a wide glass more than a narrow vial.",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/crystal-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/crystal-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/crystal-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Close-up of a white porous freeze-dried powder cake at the bottom of a clear glass vessel in cool blue light",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "crystal-qwen",
+    "slot": "crystal",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Extreme macro scientific photograph of a white freeze-dried lyophilized powder cake resting at the bottom of a small clear glass vial, the porous crystalline texture of the cake in sharp focus, the curved glass wall softly out of focus around it. Cool blue light on a dark navy background, a faint crimson-red highlight on the glass, very shallow depth of field, calm dark negative space, 16:9. The vial is plain glass: no text, no labels, no markings, no numbers, no logos.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "cb29bce0-25a9-4c64-8a99-adcc028a4089",
+    "output": "tmp/img/raw/crystal-qwen.png",
+    "sha256": "48d3e7e231703125891db58cdcad6547a65f489de9c0b3df8c553e35e033c421",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:26:50.358Z",
+    "chosen": false,
+    "reason": "Loose powder heaped in a wide open jar: reads as a food or supplement powder, not a freeze-dried cake in a vial.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "desert-grok",
+    "slot": "desert",
+    "kind": "still",
+    "endpoint": "xai/grok-imagine-image-2.0",
+    "model": "Grok Imagine Image 2.0 (xAI) via Higgsfield",
+    "prompt": "Wide documentary landscape photograph of a generic American desert Southwest scene at dusk. Low desert scrub and creosote bushes in the foreground, a wide flat desert floor, distant layered mountain silhouettes, a deep blue twilight sky with a faint red glow along the horizon, natural colour, calm and quiet, plenty of empty sky, 16:9. No people, no animals, no buildings, no roads, no vehicles, no power lines, no signs, no text.",
+    "params": {
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "quality": "medium"
+    },
+    "requestId": "2a15fc5b-ae9e-4531-875f-272e8192d972",
+    "output": "tmp/img/raw/desert-grok.png",
+    "sha256": "b73dbaace13f876f3f710bd550cd01e0b2e803974e373f995e77f1e9eb00fcbe",
+    "width": 2816,
+    "height": 1584,
+    "generatedAt": "2026-10-26T03:29:49.725Z",
+    "chosen": true,
+    "reason": "Generic desert at dusk: dark navy sky over a broad red-orange horizon glow, hazy mountain silhouettes, sparse scrub. Zoom crops of the horizon show no roads, buildings, power lines, people or text.",
+    "derivatives": [
+      {
+        "file": "src/assets/gen/desert-640.webp",
+        "width": 640,
+        "height": 360,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/desert-1280.webp",
+        "width": 1280,
+        "height": 720,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      },
+      {
+        "file": "src/assets/gen/desert-1920.webp",
+        "width": 1920,
+        "height": 1080,
+        "format": "webp q80 (cwebp -sharp_yuv), XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+      }
+    ],
+    "alt": "Desert landscape at dusk with low scrub, distant mountain silhouettes and a red glow on the horizon under a deep blue sky",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "desert-qwen",
+    "slot": "desert",
+    "kind": "still",
+    "endpoint": "alibaba/qwen-image-3/text-to-image",
+    "model": "Qwen Image 3 (Alibaba) via Higgsfield",
+    "prompt": "Wide documentary landscape photograph of a generic American desert Southwest scene at dusk. Low desert scrub and creosote bushes in the foreground, a wide flat desert floor, distant layered mountain silhouettes, a deep blue twilight sky with a faint red glow along the horizon, natural colour, calm and quiet, plenty of empty sky, 16:9. No people, no animals, no buildings, no roads, no vehicles, no power lines, no signs, no text.",
+    "params": {
+      "negative_prompt": "text, letters, numbers, words, captions, labels, stickers, printing, typography, logo, brand mark, watermark, signature, barcode, user interface, people, person, face, hands, syringe, needle, clutter, busy detail",
+      "resolution": "2k",
+      "aspect_ratio": "16:9",
+      "prompt_extend": false,
+      "enable_thinking": false
+    },
+    "requestId": "41ff8460-8715-4441-9402-e328534aab1d",
+    "output": "tmp/img/raw/desert-qwen.png",
+    "sha256": "e80a12595bbe5b46fbb4d62abc2c9d0668015512eba2d3af64ff3b00f1f2e576",
+    "width": 2048,
+    "height": 1152,
+    "generatedAt": "2026-10-26T03:29:06.972Z",
+    "chosen": false,
+    "reason": "Clean and usable, but not chosen: lighter blue sky and a large foreground bush make the left side busy; the chosen frame has a darker, calmer sky for glass panels.",
+    "derivatives": [],
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia"
+  },
+  {
+    "id": "hero-kling",
+    "slot": "hero-loop",
+    "kind": "video",
+    "endpoint": "kling-video/v3.0-turbo/image-to-video",
+    "model": "Kling 3.0 Turbo image-to-video via Higgsfield",
+    "prompt": "Slow, smooth cinematic camera glide: the camera drifts slowly sideways and orbits a few degrees around the translucent glass peptide chain, which stays on the right side of the frame. The glass beads drift and bob gently, the thin glass bonds flex very slightly, the soft red rim light slides slowly across the curved glass, and a few out-of-focus bokeh particles float slowly upward through the dark navy space. The left half of the frame stays empty and dark. Calm, continuous motion with no cuts and no flashes.",
+    "params": {
+      "duration": 10,
+      "resolution": "1080p",
+      "image_url": "uploaded copy of tmp/img/raw/hero-grok.png (Higgsfield upload URL)"
+    },
+    "requestId": "516bb23a-3d9b-4683-8146-a738609ef2a6",
+    "output": "tmp/img/raw/hero-kling.mp4",
+    "sha256": "f67856886aedec746a2b8ed16940711fc5f4c6e539d46e9c84e1afe44acb5271",
+    "width": 1920,
+    "height": 1080,
+    "durationSec": 10.04,
+    "fps": 24,
+    "generatedAt": "2026-10-26T03:41:07.818Z",
+    "chosen": true,
+    "reason": "Raw clip checked: real motion (not frozen), no text or marks appear, subject stays on the right. Loop = forward 0-10s then reversed (ping-pong) to remove the seam, then tools/make-loop.mjs crossfade 0.5s; audio dropped.",
+    "loop": {
+      "loopDurationSec": 19.458,
+      "calmness": {
+        "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+        "frames": 933,
+        "max": 0.931288,
+        "p95": 0.502754,
+        "mean": 0.456,
+        "framesOver20": 0,
+        "seamChange": 0.931288
+      },
+      "derivatives": [
+        {
+          "file": "src/assets/gen/hero-loop.mp4",
+          "width": 1920,
+          "height": 1080,
+          "format": "H.264 High yuv420p CRF 26, no audio, +faststart"
+        },
+        {
+          "file": "src/assets/gen/hero-loop-phone.mp4",
+          "width": 864,
+          "height": 1080,
+          "format": "4:5 crop at phone-x 1 (on the subject), H.264 yuv420p CRF 28, no audio, +faststart"
+        },
+        {
+          "file": "src/assets/gen/hero-loop-poster.webp",
+          "width": 1920,
+          "height": 1080,
+          "format": "frame 0 of the loop, webp, XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+        }
+      ]
+    },
+    "alt": "Decorative motion: the glass peptide chain turns slowly in navy space while soft particles drift (no information; hide from assistive tech)",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia (MP4 container comment/description tags, verified with tools/ai-label.mjs verify --control)"
+  },
+  {
+    "id": "lab-kling",
+    "slot": "lab-loop",
+    "kind": "video",
+    "endpoint": "kling-video/v3.0-turbo/image-to-video",
+    "model": "Kling 3.0 Turbo image-to-video via Higgsfield",
+    "prompt": "Slow lateral dolly shot: the camera glides smoothly sideways along the dark glass laboratory bench past the three clear glass vials with grey caps and the glass pipette, with gentle parallax against the blurred blue background. Light glints and highlights slide slowly across the glass and the metal caps, and the faint red reflection on the glossy bench shifts gently. The scene itself stays still and empty; only the camera and the light move. Calm, continuous motion, shallow depth of field, no cuts and no flashes.",
+    "params": {
+      "duration": 10,
+      "resolution": "1080p",
+      "image_url": "uploaded copy of tmp/img/raw/lab-grok.png (Higgsfield upload URL)"
+    },
+    "requestId": "c8ae802c-6948-4637-bf93-80cac892bea3",
+    "output": "tmp/img/raw/lab-kling.mp4",
+    "sha256": "04aab68b06366fbdb063a0ae990ac97b61e6c877da8c454e676d0f2108d43029",
+    "width": 1920,
+    "height": 1080,
+    "durationSec": 10.04,
+    "fps": 24,
+    "generatedAt": "2026-10-26T03:41:33.759Z",
+    "chosen": true,
+    "reason": "Raw clip checked: real motion (not frozen), no text or marks appear, subject stays on the right. Loop = forward 0-5s then reversed (ping-pong) to remove the seam, then tools/make-loop.mjs crossfade 0.25s; audio dropped.",
+    "loop": {
+      "loopDurationSec": 9.708,
+      "calmness": {
+        "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+        "frames": 465,
+        "max": 2.36,
+        "p95": 2.28458,
+        "mean": 1.905,
+        "framesOver20": 0,
+        "seamChange": 1.89314
+      },
+      "derivatives": [
+        {
+          "file": "src/assets/gen/lab-loop.mp4",
+          "width": 1920,
+          "height": 1080,
+          "format": "H.264 High yuv420p CRF 26, no audio, +faststart"
+        },
+        {
+          "file": "src/assets/gen/lab-loop-phone.mp4",
+          "width": 864,
+          "height": 1080,
+          "format": "4:5 crop at phone-x 0.84 (on the subject), H.264 yuv420p CRF 28, no audio, +faststart"
+        },
+        {
+          "file": "src/assets/gen/lab-loop-poster.webp",
+          "width": 1920,
+          "height": 1080,
+          "format": "frame 0 of the loop, webp, XMP IPTC trainedAlgorithmicMedia embedded with webpmux"
+        }
+      ]
+    },
+    "alt": "Decorative motion: the camera glides slowly past three glass vials and a pipette on a dark bench (no information; hide from assistive tech)",
+    "aiLabel": "IPTC digital source type trainedAlgorithmicMedia (MP4 container comment/description tags, verified with tools/ai-label.mjs verify --control)"
+  }
+]

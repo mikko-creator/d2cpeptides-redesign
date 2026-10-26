@@ -1,0 +1,41 @@
+/* ---------- dark bands built from light sections (home: quality and documentation over the lab loop) ---------- */
+.section--dark { color: var(--on-dark); background: transparent; }
+.section--dark::before, .section--dark::after { display: none; }
+.section--dark :is(h1, h2, h3, h4) { color: #fff; }
+.section--dark .prose { color: var(--on-dark); }
+.section--dark .prose strong { color: #fff; }
+.section--dark a:not(.btn) { color: #fff; text-decoration-color: rgba(239, 75, 87, .8); }
+.section--dark > .wrap > h2:first-child::before, .section--dark > .wrap > .prose:first-child > h2:first-child::before { color: #ffb3b9; border-color: rgba(239, 75, 87, .4); background: rgba(239, 75, 87, .1); }
+.section--dark .links, .section--dark .links li { border-color: var(--line-dark); }
+.section--dark .links a { color: #fff; }
+.section--dark .links a:hover { color: #fff; background: linear-gradient(90deg, rgba(239, 75, 87, .14), transparent); }
+.section--dark > .wrap--narrow {
+  position: relative; max-width: calc(var(--narrow) + 2 * var(--gutter)); padding: clamp(28px, 4vw, 56px) clamp(22px, 4vw, 56px);
+  border-radius: var(--radius-xl); background: var(--glass-dark); box-shadow: var(--edge-dark), var(--sh-dark);
+  backdrop-filter: var(--blur); -webkit-backdrop-filter: var(--blur); width: calc(100% - 2 * var(--gutter));
+}
+.section--dark > .wrap--narrow::after { content: ""; position: absolute; inset: 12px; pointer-events: none; background: var(--ticks); opacity: .7; }
+/* the loop shows at the edges, dimmer behind the words */
+.section--dark .fx__media { -webkit-mask-image: radial-gradient(70% 90% at 50% 50%, rgba(0, 0, 0, .35), #000 75%); mask-image: radial-gradient(70% 90% at 50% 50%, rgba(0, 0, 0, .35), #000 75%); }
+.section--dark .fx__img, .section--dark .fx__video { opacity: .75; }
+
+/* ---------- light band with a photo backdrop on the right (home: where we are) ---------- */
+/* a framed window on the right; the glass cards slide over its edge */
+.section--media:not(.section--dark):not(.section--navy) .fx__media { inset: 9% max(var(--gutter), calc(50% - var(--maxw) / 2)) 9% 56%; border-radius: var(--radius-xl); overflow: hidden; -webkit-mask-image: none; mask-image: none; box-shadow: var(--sh-3), 0 0 0 1px rgba(10, 18, 32, .08); }
+.section--media:not(.section--dark):not(.section--navy) .fx__media::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(10, 18, 32, 0) 50%, rgba(10, 18, 32, .35)); }
+.section--media:not(.section--dark):not(.section--navy) .fx__img { opacity: 1; }
+.section--media:not(.section--dark):not(.section--navy) .fx :is(.fx-grid, .fx-hex, .fx-scan) { display: none; }
+.section--media:not(.section--dark):not(.section--navy) .fx-orb { opacity: .25; }
+.section--media:not(.section--dark):not(.section--navy) .child-cards .card { background: linear-gradient(140deg, rgba(255, 255, 255, .72), rgba(255, 255, 255, .5)); }
+/* navy bands with a photo: the photo carries the right half */
+.section--navy.section--media .fx__img { opacity: .7; }
+
+/* ---------- calmer product grids: navy instrument buttons, red on hover ---------- */
+.pcard__cta.btn--primary { background: var(--navy); background-image: linear-gradient(180deg, var(--navy-3), var(--navy)); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .12), 0 10px 22px -14px rgba(10, 18, 32, .9); }
+.pcard:hover .pcard__cta.btn--primary, .pcard__cta.btn--primary:hover { background-image: linear-gradient(180deg, var(--red-hi), var(--red)); box-shadow: inset 0 1px 0 rgba(255, 255, 255, .25), var(--glow-red); }
+.fx-ring { opacity: .12; }
+
+@media (max-width: 860px) {
+  .section--media:not(.section--dark):not(.section--navy) .fx__media { display: none; }
+  .section--dark > .wrap--narrow { width: calc(100% - 2 * var(--gutter) + 8px); }
+}

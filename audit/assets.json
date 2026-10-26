@@ -1,0 +1,936 @@
+[
+ {
+  "path": "/d2cpeptides/img/brand/logo.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 14765,
+  "file": "audit/assets/img/brand/logo.svg",
+  "magic": "svg"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tirzepatide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19872,
+  "file": "audit/assets/img/products/tirzepatide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/semaglutide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19660,
+  "file": "audit/assets/img/products/semaglutide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hgh-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18526,
+  "file": "audit/assets/img/products/hgh-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hcg-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18960,
+  "file": "audit/assets/img/products/hcg-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/bpc157-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19930,
+  "file": "audit/assets/img/products/bpc157-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/sermorelin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 24664,
+  "file": "audit/assets/img/products/sermorelin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/retatrutide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19464,
+  "file": "audit/assets/img/products/retatrutide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tesamorelin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20362,
+  "file": "audit/assets/img/products/tesamorelin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/brand/logo-light.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 14765,
+  "file": "audit/assets/img/brand/logo-light.svg",
+  "magic": "svg"
+ },
+ {
+  "path": "/d2cpeptides/js/chatbot.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8",
+  "bytes": 90528,
+  "file": "audit/assets/js/chatbot.js",
+  "magic": "text"
+ },
+ {
+  "path": "/d2cpeptides/js/site.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8",
+  "bytes": 31138,
+  "file": "audit/assets/js/site.js",
+  "magic": "text"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tirzepatide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8448,
+  "file": "audit/assets/img/products/tirzepatide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/semaglutide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8482,
+  "file": "audit/assets/img/products/semaglutide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hgh-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7836,
+  "file": "audit/assets/img/products/hgh-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hcg-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7922,
+  "file": "audit/assets/img/products/hcg-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/bpc157-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8348,
+  "file": "audit/assets/img/products/bpc157-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/sermorelin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 10650,
+  "file": "audit/assets/img/products/sermorelin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/retatrutide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8422,
+  "file": "audit/assets/img/products/retatrutide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tesamorelin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8502,
+  "file": "audit/assets/img/products/tesamorelin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/css/site.css",
+  "status": 200,
+  "type": "text/css; charset=utf-8",
+  "bytes": 108747,
+  "file": "audit/assets/css/site.css",
+  "magic": "text"
+ },
+ {
+  "path": "/d2cpeptides/favicon.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 3282,
+  "file": "audit/assets/favicon.svg",
+  "magic": "svg"
+ },
+ {
+  "path": "/d2cpeptides/img/brand/apple-touch-icon.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 4225,
+  "file": "audit/assets/img/brand/apple-touch-icon.png",
+  "magic": "png"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghk-cu-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18944,
+  "file": "audit/assets/img/products/ghk-cu-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/klow-peptide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 36968,
+  "file": "audit/assets/img/products/klow-peptide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/nad-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19250,
+  "file": "audit/assets/img/products/nad-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/pt-141-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19058,
+  "file": "audit/assets/img/products/pt-141-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/glow-peptide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30872,
+  "file": "audit/assets/img/products/glow-peptide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/mots-c-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19328,
+  "file": "audit/assets/img/products/mots-c-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tb-500-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19184,
+  "file": "audit/assets/img/products/tb-500-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/melanotan-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19740,
+  "file": "audit/assets/img/products/melanotan-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ss-31-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31980,
+  "file": "audit/assets/img/products/ss-31-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/igf-1-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19130,
+  "file": "audit/assets/img/products/igf-1-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/wolverine-stack-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30846,
+  "file": "audit/assets/img/products/wolverine-stack-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/aod-9604-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30002,
+  "file": "audit/assets/img/products/aod-9604-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/semax-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32922,
+  "file": "audit/assets/img/products/semax-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-ipamorelin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32202,
+  "file": "audit/assets/img/products/cjc-1295-ipamorelin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/dsip-peptide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18722,
+  "file": "audit/assets/img/products/dsip-peptide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/kisspeptin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19698,
+  "file": "audit/assets/img/products/kisspeptin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/thymosin-alpha-1-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32524,
+  "file": "audit/assets/img/products/thymosin-alpha-1-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hmg-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18906,
+  "file": "audit/assets/img/products/hmg-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/kpv-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32306,
+  "file": "audit/assets/img/products/kpv-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghrp-6-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19066,
+  "file": "audit/assets/img/products/ghrp-6-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/selank-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19250,
+  "file": "audit/assets/img/products/selank-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-with-dac-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20644,
+  "file": "audit/assets/img/products/cjc-1295-with-dac-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghrp-2-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18978,
+  "file": "audit/assets/img/products/ghrp-2-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/gonadorelin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19734,
+  "file": "audit/assets/img/products/gonadorelin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ara-290-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33210,
+  "file": "audit/assets/img/products/ara-290-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cartalax-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32560,
+  "file": "audit/assets/img/products/cartalax-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-no-dac-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 55180,
+  "file": "audit/assets/img/products/cjc-1295-no-dac-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/epithalon-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 19524,
+  "file": "audit/assets/img/products/epithalon-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/pinealon-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33502,
+  "file": "audit/assets/img/products/pinealon-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hgh-fragment-176-191-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20136,
+  "file": "audit/assets/img/products/hgh-fragment-176-191-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cardiogen-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32648,
+  "file": "audit/assets/img/products/cardiogen-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/livagen-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31848,
+  "file": "audit/assets/img/products/livagen-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/mgf-peptide-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18556,
+  "file": "audit/assets/img/products/mgf-peptide-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/testagen-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33552,
+  "file": "audit/assets/img/products/testagen-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ipamorelin-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 33242,
+  "file": "audit/assets/img/products/ipamorelin-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cortagen-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 32676,
+  "file": "audit/assets/img/products/cortagen-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/vilon-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 31856,
+  "file": "audit/assets/img/products/vilon-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghk-cu-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8092,
+  "file": "audit/assets/img/products/ghk-cu-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/klow-peptide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14750,
+  "file": "audit/assets/img/products/klow-peptide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/nad-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8036,
+  "file": "audit/assets/img/products/nad-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/pt-141-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8016,
+  "file": "audit/assets/img/products/pt-141-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/glow-peptide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12236,
+  "file": "audit/assets/img/products/glow-peptide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/mots-c-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8200,
+  "file": "audit/assets/img/products/mots-c-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/tb-500-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8116,
+  "file": "audit/assets/img/products/tb-500-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/melanotan-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8426,
+  "file": "audit/assets/img/products/melanotan-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ss-31-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13850,
+  "file": "audit/assets/img/products/ss-31-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/igf-1-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8110,
+  "file": "audit/assets/img/products/igf-1-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/wolverine-stack-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12526,
+  "file": "audit/assets/img/products/wolverine-stack-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/aod-9604-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 11946,
+  "file": "audit/assets/img/products/aod-9604-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/semax-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13668,
+  "file": "audit/assets/img/products/semax-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-ipamorelin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12650,
+  "file": "audit/assets/img/products/cjc-1295-ipamorelin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/dsip-peptide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7890,
+  "file": "audit/assets/img/products/dsip-peptide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/kisspeptin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8406,
+  "file": "audit/assets/img/products/kisspeptin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/thymosin-alpha-1-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13202,
+  "file": "audit/assets/img/products/thymosin-alpha-1-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hmg-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 7882,
+  "file": "audit/assets/img/products/hmg-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/kpv-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13168,
+  "file": "audit/assets/img/products/kpv-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghrp-6-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8054,
+  "file": "audit/assets/img/products/ghrp-6-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/selank-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8186,
+  "file": "audit/assets/img/products/selank-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-with-dac-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8760,
+  "file": "audit/assets/img/products/cjc-1295-with-dac-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ghrp-2-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8008,
+  "file": "audit/assets/img/products/ghrp-2-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/gonadorelin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8436,
+  "file": "audit/assets/img/products/gonadorelin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ara-290-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16224,
+  "file": "audit/assets/img/products/ara-290-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cartalax-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15644,
+  "file": "audit/assets/img/products/cartalax-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cjc-1295-no-dac-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 20288,
+  "file": "audit/assets/img/products/cjc-1295-no-dac-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/epithalon-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8370,
+  "file": "audit/assets/img/products/epithalon-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/pinealon-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16526,
+  "file": "audit/assets/img/products/pinealon-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/hgh-fragment-176-191-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8490,
+  "file": "audit/assets/img/products/hgh-fragment-176-191-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cardiogen-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 16132,
+  "file": "audit/assets/img/products/cardiogen-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/livagen-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 14414,
+  "file": "audit/assets/img/products/livagen-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/mgf-peptide-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 8024,
+  "file": "audit/assets/img/products/mgf-peptide-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/testagen-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13986,
+  "file": "audit/assets/img/products/testagen-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/ipamorelin-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13120,
+  "file": "audit/assets/img/products/ipamorelin-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/cortagen-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15852,
+  "file": "audit/assets/img/products/cortagen-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/vilon-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 15766,
+  "file": "audit/assets/img/products/vilon-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/insulin-syringes-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 60208,
+  "file": "audit/assets/img/products/insulin-syringes-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/bacteriostatic-water-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 6840,
+  "file": "audit/assets/img/products/bacteriostatic-water-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/brand/placeholder.svg",
+  "status": 200,
+  "type": "image/svg+xml",
+  "bytes": 3268,
+  "file": "audit/assets/img/brand/placeholder.svg",
+  "magic": "svg"
+ },
+ {
+  "path": "/d2cpeptides/img/products/23g-1-needle-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 35726,
+  "file": "audit/assets/img/products/23g-1-needle-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/25g-1-needle-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 30812,
+  "file": "audit/assets/img/products/25g-1-needle-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/3ml-syringe-luer-lok-tip-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 26084,
+  "file": "audit/assets/img/products/3ml-syringe-luer-lok-tip-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/alcohol-swabs-960.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 45782,
+  "file": "audit/assets/img/products/alcohol-swabs-960.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/insulin-syringes-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 22088,
+  "file": "audit/assets/img/products/insulin-syringes-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/bacteriostatic-water-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 2646,
+  "file": "audit/assets/img/products/bacteriostatic-water-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/23g-1-needle-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 13334,
+  "file": "audit/assets/img/products/23g-1-needle-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/25g-1-needle-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 12074,
+  "file": "audit/assets/img/products/25g-1-needle-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/3ml-syringe-luer-lok-tip-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 10380,
+  "file": "audit/assets/img/products/3ml-syringe-luer-lok-tip-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/img/products/alcohol-swabs-480.webp",
+  "status": 200,
+  "type": "image/webp",
+  "bytes": 18136,
+  "file": "audit/assets/img/products/alcohol-swabs-480.webp",
+  "magic": "webp"
+ },
+ {
+  "path": "/d2cpeptides/js/tools.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8",
+  "bytes": 28768,
+  "file": "audit/assets/js/tools.js",
+  "magic": "text"
+ },
+ {
+  "path": "/d2cpeptides/img/brand/og-default.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 94831,
+  "file": "audit/assets/img/brand/og-default.png",
+  "magic": "png"
+ },
+ {
+  "path": "/d2cpeptides/img/brand/logo-mark-512.png",
+  "status": 200,
+  "type": "image/png",
+  "bytes": 15935,
+  "file": "audit/assets/img/brand/logo-mark-512.png",
+  "magic": "png"
+ },
+ {
+  "path": "/d2cpeptides/favicon.ico",
+  "status": 404,
+  "type": "text/html; charset=utf-8",
+  "bytes": 15215
+ },
+ {
+  "path": "/d2cpeptides/robots.txt",
+  "status": 404,
+  "type": "text/html; charset=utf-8",
+  "bytes": 15215
+ },
+ {
+  "path": "/d2cpeptides/sitemap.xml",
+  "status": 404,
+  "type": "text/html; charset=utf-8",
+  "bytes": 15215
+ },
+ {
+  "path": "/d2cpeptides/manifest.webmanifest",
+  "status": 404,
+  "type": "text/html; charset=utf-8",
+  "bytes": 15215
+ },
+ {
+  "path": "/d2cpeptides/site.webmanifest",
+  "status": 404,
+  "type": "text/html; charset=utf-8",
+  "bytes": 15215
+ }
+]

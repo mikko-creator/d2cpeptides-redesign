@@ -1,0 +1,4 @@
+# kept in the local workspace only (raw crawl evidence and the crawled source assets; dist/ carries every asset the site serves)
+/audit/raw export-ignore
+/audit/assets export-ignore
+/docs/RESUME.md export-ignore
