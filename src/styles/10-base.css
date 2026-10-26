@@ -86,7 +86,8 @@ main { position: relative; z-index: 1; display: block; }
 @keyframes orb-b { to { transform: translate3d(-14vmax, -8vmax, 0) scale(.92); } }
 @keyframes orb-c { to { transform: translate3d(-18vmax, 14vmax, 0) scale(1.2); } }
 /* everything else paints above the stage */
-body > :not(.stage) { position: relative; z-index: 1; }
+/* zero specificity, so components that position themselves (the sticky header, dialogs, docks) keep their own rules */
+:where(body > :not(.stage)) { position: relative; z-index: 1; }
 body > .gate, body > .drawer, body > .chat-panel, body > .chat-launcher, body > .mtabs, body > .chat-teaser { position: fixed; }
 
 /* ---------- staging status line (source text kept) ---------- */
@@ -132,8 +133,8 @@ body > .gate, body > .drawer, body > .chat-panel, body > .chat-launcher, body > 
 .btn--sm::after { display: none; }
 .btn:disabled, .btn[aria-disabled="true"] { opacity: .55; cursor: not-allowed; transform: none; }
 /* on dark grounds */
-:is(.hero, .section--navy, .bulk, .site-footer, .gate, .drawer) .btn--ghost { --btn-fg: #fff; --btn-bd: rgba(214, 226, 255, .32); background: rgba(255, 255, 255, .04); }
-:is(.hero, .section--navy, .site-footer, .gate) .btn--ghost:hover { --btn-bd: #fff; background: rgba(255, 255, 255, .1); }
+:is(.hero, .section--navy, .section--dark, .bulk, .site-footer, .gate) .btn--ghost { --btn-fg: #fff; --btn-bd: rgba(214, 226, 255, .32); background: rgba(255, 255, 255, .04); }
+:is(.hero, .section--navy, .section--dark, .site-footer, .gate) .btn--ghost:hover { --btn-bd: #fff; background: rgba(255, 255, 255, .1); }
 
 /* ---------- badges (mono pills) ---------- */
 .badge {

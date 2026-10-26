@@ -123,25 +123,34 @@ main .pdp .pdp__qty input { width: 110px; min-height: 52px; padding: 0 14px; bor
 
 /* ---------- cart (drawer + /cart/ page) ---------- */
 .cartv__lines { display: grid; gap: 10px; margin: 0 0 18px; padding: 0; list-style: none; }
-.cartv__line { display: grid; grid-template-columns: 64px 1fr auto; gap: 12px; align-items: start; margin: 0; padding: 12px; border-radius: 16px; background: #fff; box-shadow: inset 0 0 0 1px var(--line); }
+.cartv__line { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; grid-template-areas: "img info total" "img qty rm"; gap: 8px 12px; align-items: start; margin: 0; padding: 12px; border-radius: 16px; background: #fff; box-shadow: inset 0 0 0 1px var(--line); }
+.cartv__line > .cartv__img { grid-area: img; }
+.cartv__info { grid-area: info; display: grid; gap: 3px; min-width: 0; }
+.cartv__line > .cartv__qty { grid-area: qty; justify-self: start; margin-top: 0; }
+.cartv__line > .cartv__total { grid-area: total; justify-self: end; font: 600 15px/1.3 var(--mono); color: var(--ink); }
+.cartv__line > .cartv__rm { grid-area: rm; justify-self: end; align-self: center; }
 .cartv__img { width: 64px; height: 56px; object-fit: contain; border-radius: 12px; background: #fff; box-shadow: inset 0 0 0 1px var(--line); }
-.cartv__name { margin: 0; font: 600 16px/1.25 var(--serif); color: var(--ink); }
+.cartv__name { display: block; margin: 0; font: 600 16px/1.25 var(--serif); color: var(--ink); text-decoration: none; }
 .cartv__name a { color: inherit; text-decoration: none; }
-.cartv__var { margin: 2px 0 0; font: 500 11.5px/1.4 var(--mono); color: var(--muted); }
-.cartv__unit { font: 500 12.5px/1.4 var(--mono); color: var(--muted-2); }
+.cartv__var { display: block; margin: 0; font: 500 11.5px/1.4 var(--mono); color: var(--muted); }
+.cartv__unit { display: block; font: 500 12px/1.4 var(--mono); color: var(--muted-2); }
 .cartv__qty { display: inline-flex; align-items: center; gap: 4px; margin-top: 8px; padding: 3px; border-radius: var(--pill); background: rgba(10, 18, 32, .05); }
 .cartv__qty button { width: 30px; height: 30px; border: 0; border-radius: 50%; background: #fff; box-shadow: inset 0 0 0 1px var(--line); font-weight: 700; }
 .cartv__qty button:hover { background: var(--navy); color: #fff; }
 .cartv__qty input, .cartv__qty output, .cartv__qty span { min-width: 30px; text-align: center; font: 600 14px/1 var(--mono); border: 0; background: transparent; }
 .cartv__rm { border: 0; background: none; color: var(--muted); font-size: 13px; text-decoration: underline; padding: 4px 0; }
 .cartv__rm:hover { color: var(--red-ink); }
-.cartv__total, .cartv__sum { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin: 0 0 6px; font: 600 15px/1.4 var(--mono); color: var(--ink); }
-.cartv__total { padding-top: 14px; border-top: 1px solid var(--line); font-size: 18px; }
+.cartv__sum { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; margin: 4px 0 6px; padding-top: 14px; border-top: 1px solid var(--line); font: 600 18px/1.4 var(--mono); color: var(--ink); }
 .cartv__fine { font-size: 13px; color: var(--muted); }
 .cartv__actions { display: grid; gap: 8px; margin-top: 14px; }
 .cartv__h { margin: 22px 0 10px; font: 600 11px/1.2 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
-.cartv__sugg { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
-.cartv__sug { display: grid; grid-template-columns: 48px 1fr auto; align-items: center; gap: 10px; margin: 0; padding: 8px; border-radius: 14px; background: rgba(255, 255, 255, .7); box-shadow: inset 0 0 0 1px var(--line); font-size: 14px; }
+.cartv__sugg ul { display: grid; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
+.cartv__sug { display: grid; grid-template-columns: 48px minmax(0, 1fr) auto; align-items: center; gap: 10px; margin: 0; padding: 8px 10px 8px 8px; border-radius: 14px; background: rgba(255, 255, 255, .8); box-shadow: inset 0 0 0 1px var(--line); font-size: 14px; }
+.cartv__sug > span:not(:first-child) { display: grid; gap: 2px; min-width: 0; }
+.cartv__sug a { color: var(--ink); font-weight: 600; text-decoration: none; }
+.cartv__sug a:hover { color: var(--red-ink); text-decoration: underline; }
+.cartv__sug small { font: 600 12px/1.2 var(--mono); color: var(--red-ink); }
+.cartv__sug > span:first-child { width: 48px; height: 42px; border-radius: 10px; background: #fff url("/d2cpeptides/img/brand/placeholder.svg") center / cover; }
 .cartv__sug img { width: 48px; height: 42px; object-fit: contain; border-radius: 10px; background: #fff; }
 .cartv__empty { margin: 8px 0 18px; }
 .cartv--page { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 28px; align-items: start; }
